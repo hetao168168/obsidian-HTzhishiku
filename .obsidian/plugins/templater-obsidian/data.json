@@ -7,11 +7,11 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "enable_folder_templates": false,
   "folder_templates": [
     {
-      "folder": "A股资金流/日报",
-      "template": "A股板块资金流报告"
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": true,
