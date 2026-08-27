@@ -1,5 +1,8 @@
 [
   "ob-epub-reader",
   "wechat-obsync",
-  "wechat-note-helper"
+  "wechat-note-helper",
+  "templater-obsidian",
+  "obsidian-git",
+  "dataview"
 ]
