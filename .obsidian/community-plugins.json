@@ -2,7 +2,8 @@
   "ob-epub-reader",
   "wechat-obsync",
   "wechat-note-helper",
-  "templater-obsidian",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "pdf-plus",
+  "termy"
 ]
