@@ -61,6 +61,10 @@
     "desktop-mt5mdtro-bpvl": {
       "frequency": 0,
       "syncOnStart": true
+    },
+    "desktop-mtpstzcs-du83": {
+      "frequency": 0,
+      "syncOnStart": false
     }
   },
   "deviceAutoSyncMigrated": true,
